@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: white;
+}
+
+button.blue {
+    background-color: rgb(58, 58, 184);
+    color: aliceblue;
+}
+
+button#green {
+    background-color: rgb(80, 152, 80);
+    color: rgb(209, 241, 209);
+}
