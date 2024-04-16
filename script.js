@@ -6,10 +6,10 @@ const body = document.querySelector("body");
 
 blueBtn.addEventListener("click", () => {
     body.setAttribute("class", "blue");
-    heading.textContent = `This is a cute litte site with a blue background`;
+    heading.textContent = `This is a cute little site with a blue background`;
 });
 greenBtn.addEventListener("click", () => {
     body.setAttribute("class", "green");
-    heading.textContent = `This is a cute litte site with a green background`;
+    heading.textContent = `This is a cute little site with a green background`;
 });
 
