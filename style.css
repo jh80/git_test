@@ -12,3 +12,13 @@ body {
     background-color: rgb(80, 152, 80);
     color: rgb(209, 241, 209);
 }
+
+.purple {
+    background-color: rgb(74, 15, 74);
+    color: rgb(231, 182, 231);
+}
+
+.yellow {
+    background-color: rgb(209, 209, 66);
+    color: rgb(238, 238, 204);
+}
