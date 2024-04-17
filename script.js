@@ -9,5 +9,5 @@ blueBtn.addEventListener("click", () => color("green"))
 
 function color (color) {
     body.setAttribute("class", color);
-    heading.textContent = `This is a but litte site with a ${color} background`;    
+    heading.textContent = `This is a cute little site with a ${color} background`;    
 }
