@@ -5,11 +5,11 @@ const heading = document.querySelector("h1");
 const body = document.querySelector("body");
 
 blueBtn.addEventListener("click", () => {
-    body.setAttribute("class", "blue");
-    heading.textContent = `This is a cute little site with a blue background`;
+    body.setAttribute("class", "violet");
+    heading.textContent = `This is a cute little site with a violet background`;
 });
 greenBtn.addEventListener("click", () => {
-    body.setAttribute("class", "green");
-    heading.textContent = `This is a cute little site with a green background`;
+    body.setAttribute("class", "mustard");
+    heading.textContent = `This is a cute little site with a mustard background`;
 });
 

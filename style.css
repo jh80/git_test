@@ -3,12 +3,12 @@ body {
     background-color: white;
 }
 
-.blue {
-    background-color: rgb(58, 58, 184);
-    color: aliceblue;
+.violet {
+    background-color: rgb(109, 31, 109);
+    color: violet;
 }
 
-.green {
-    background-color: rgb(80, 152, 80);
-    color: rgb(209, 241, 209);
+.mustard {
+    background-color: #75751c;
+    color: #e6e6c4;
 }
